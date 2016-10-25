@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/colorSwatch"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentStart="true"
+        android:height="200dp"
+        android:background="#000" />
+
+    <SeekBar
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:id="@+id/hueSB"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:max="359"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/gradient2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/saturation"
+        android:labelFor="@+id/saturationSB"
+        android:layout_below="@+id/hueSB"
+        android:layout_alignParentStart="true"
+        android:text="@string/saturation" />
+
+    <!--TODO: SeekBar for green -->
+    <SeekBar
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/saturation"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:max="100"
+        android:layout_marginBottom="15dp"
+        android:id="@+id/saturationSB"
+        android:background="@drawable/gradient1"/>
+
+    <!--TODO: TextView for blue -->
+    <TextView
+        android:text="@string/value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/value"
+        android:labelFor="@+id/valueSB"
+        android:layout_below="@+id/saturationSB"
+        android:layout_alignParentStart="true" />
+
+    <!--TODO: SeekBar for blue -->
+    <SeekBar
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:max="100"
+        android:id="@+id/valueSB"
+        android:layout_below="@+id/value"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/gradient3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/hue"
+        android:id="@+id/hue"
+        android:labelFor="@+id/hueSB"
+        android:layout_above="@+id/hueSB"
+        android:layout_alignParentStart="true" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <Button
+                android:onClick="change"
+                android:background="#000000"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/black" />
+
+            <Button
+                android:onClick="change"
+                android:background="#FF0000"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/red" />
+
+            <Button
+                android:onClick="change"
+                android:background="#00FF00"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/lime" />
+
+            <Button
+                android:onClick="change"
+                android:background="#0000FF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/blue" />
+
+            <Button
+                android:onClick="change"
+                android:background="#FFFF00"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/yellow" />
+
+            <Button
+                android:onClick="change"
+                android:background="#00FFFF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/cyan" />
+
+            <Button
+                android:onClick="change"
+                android:background="#FF00FF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/magenta" />
+
+            <Button
+                android:onClick="change"
+                android:background="#C0C0C0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/silver" />
+
+            <Button
+                android:onClick="change"
+                android:background="#808080"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/gray" />
+
+            <Button
+                android:onClick="change"
+                android:background="#800000"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/maroon" />
+
+            <Button
+                android:onClick="change()"
+                android:background="#808000"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/olive" />
+
+            <Button
+                android:onClick="change"
+                android:background="#008000"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/green" />
+
+            <Button
+                android:onClick="change"
+                android:background="#800080"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/purple" />
+
+            <Button
+                android:onClick="change"
+                android:background="#008080"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/teal" />
+
+            <Button
+                android:onClick="change"
+                android:background="#000080"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/navy" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</RelativeLayout>

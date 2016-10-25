@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_0ebada7c2a82c0f70768e005009de7246f98180c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_61a8600904a612131b76108e87085f43c2772523/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e94d736fd2daaaf3e917d0e829ac2efe1fead6e9">
+        <dex dex="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a194f7392f034d3d53e5a07ae5cc74f5dc9cbc05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_b8ff09b6dddccbc6f5bad13569afd5b4b27b4a39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3674bd09a700512acf8879bc01081514f36e639e">
+        <dex dex="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2a031361dc2efe91e93b7d81f5aa5f12d75aadb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_3da32071954fc494860d5507193db18a9a73aadc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fe99f76a398053df8af293c716bdd6df69599a63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_b93d78deb8ee8560207224cf3a89519116187044/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_3ba40fd862d59451720f76c174fd50b7af7aaf42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_0d41380cd1fcf99d4ff5e04d49ff2792d3f692a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ec23d57f38d6c0b2016d70d6eb84d31bb97adae4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="82c1577e3df7e6ba9abe236a334de17ce1f154da">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_587dc359b4bb84c1b4f734a813dbad152b4388c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_6b8a0c131a35d4fe9d8e040dc66427715637525e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Medhurst/Documents/Semester 3/Android/RGBA-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_cc964a6c8f82d70ffa1fdf157a7a620db47f7482/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_bef9f13813bbc1e0b77cce8e0f4beac884212fad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_23828a5f6d1cf19d4d6610065e04f35f173ee7a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_93a93a5c5984c75fbcf30d3dfda0385ca82cf204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6c70e9568c0d9e107a0bd9859196f66e4655c1f9">
+        <dex dex="/Users/Medhurst/Desktop/Midterm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1cd732412fefb37d113772fc0e40a279a0376e6/classes.dex" />
+    </item>
+
+</items>

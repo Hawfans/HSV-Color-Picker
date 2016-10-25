@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HSV Color Picker</string>
+    <string name="action_about">About</string>
+    <string name="author">David Medhurst (medh0003)</string>
+    <string name="value">Value</string>
+    <string name="saturation">Saturation</string>
+    <string name="hue">Hue</string>
+</resources>
